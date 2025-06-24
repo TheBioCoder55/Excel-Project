@@ -34,14 +34,14 @@ This project is focused on analyzing retail sales data using Microsoft Excel. Th
 - 🧮 **Scenario-Based Tools**
   - What-If Analysis, Goal Seek, Data Tables, Forecast Sheets
  
-  📈 **Key Insights**
+📈 **Key Insights**
 - Identified top-selling products and regions with highest revenue
 
 - Analyzed monthly sales trends and seasonal spikes
 
 - Tracked low-performing products and high-return rates
 
-  🧠 **What I Learned**
+🧠 **What I Learned**
 - How to apply advanced Excel skills for business data analysis
   
 - Designing dashboards that are both **insightful** and **user-friendly**
